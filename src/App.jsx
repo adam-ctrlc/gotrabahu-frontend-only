@@ -12,7 +12,7 @@ import { Jobs as AdminJobs } from "./pages/Admin/Jobs";
 import { Users as AdminUsers } from "./pages/Admin/Users";
 import { Subscriptions as AdminSubscriptions } from "./pages/Admin/Subscriptions";
 import { NavigationBar } from "./components/NavigationBar";
-import { Subscription } from "./pages/subscription";
+import { Subscription } from "./pages/Subscription";
 import { Jobs as EmployeeJobs } from "./pages/Employee/Jobs";
 import { History as EmployeeHistory } from "./pages/Employee/History";
 import { Dashboard as EmployeeDashboard } from "./pages/Employee/Dashboard";
