@@ -6,7 +6,7 @@ import { Login } from "./pages/Login/Login";
 import { AuthProvider } from "./contexts/AuthProvider";
 import { ProfileInformationProvider } from "./contexts/ProfileInformationProvider";
 import { Signup } from "./pages/Signup";
-import { Header } from "./components/header";
+import { Header } from "./components/Header";
 import { Dashboard as AdminDashboard } from "./pages/Admin/Dashboard";
 import { Jobs as AdminJobs } from "./pages/Admin/Jobs";
 import { Users as AdminUsers } from "./pages/Admin/Users";
